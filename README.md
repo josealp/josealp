@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
  <div>
   <a href="https://github.com/josealp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josealp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealp&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=josealp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealp&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div> 
+ <br>
   <a href="https://www.linkedin.com/in/jalpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/josealp/josealp/blob/output/github-contribution-grid-snake.svg)
